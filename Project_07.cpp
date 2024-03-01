@@ -34,6 +34,10 @@ do
 {
 pmenu(); // Calling Menu Function
 // User Choosing Menu Opition
+cout << "1. Calculate PI" << endl;
+cout << "2. Flip a Coin" << endl;
+cout << "3. Roll a 5-sided Dice" << endl;
+cout << "4. Exit Program" << endl;
 cout << "Enter your choice: ";
 cin >> pm;
 cout << pm << endl << endl;
