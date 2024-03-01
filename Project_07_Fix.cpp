@@ -1,12 +1,10 @@
 //
-//Program Title: Project 07
+//Program Title: Interactive Menu
 //Project File: Project_07.cpp
 //Name: Charlie Smiley
 //Course Section: CPE-211-02
 //Lab Section: 1
 //Due Date: 10/19/21
-//Program Description: Description of
-//What the program does.
 //
 #include <iostream>
 #include <cstdlib>
