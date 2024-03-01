@@ -1,6 +1,6 @@
 //
 //Program Title: Interactive Menu
-//Project File: Project_07.cpp
+//Project File: Project_07_Fix.cpp
 //Name: Charlie Smiley
 //Course Section: CPE-211-02
 //Lab Section: 1
